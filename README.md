@@ -1,1 +1,2 @@
 # CodeForum
+This project is an online communication platform to help developers learn from each other and share their experiences. Currently, it has achieved user registration, login, post, like, system notification, search and other functions, and the introduction of Redis database to improve the overall performance of the website, to achieve access to user credentials, like attention, function, and based on Kafka to achieve the system notification, the use of regular tasks to calculate the post scores, and on the page to show the hot list.

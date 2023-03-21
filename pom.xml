@@ -8,11 +8,11 @@
 		<version>2.1.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.nowcoder.community</groupId>
-	<artifactId>community</artifactId>
+	<groupId>com.ostangt.codeforum</groupId>
+	<artifactId>codeforum</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>community</name>
-	<description>nowcoder community</description>
+	<name>codeforum</name>
+	<description>ostangt codeforum</description>
 	<packaging>war</packaging>
 
 	<properties>
